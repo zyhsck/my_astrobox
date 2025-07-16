@@ -1,0 +1,27 @@
+{
+  "item": {
+    "name": "playball",
+    "description": "滑动滚动条接住小球，小球在横线上方反弹",
+    "preview": [
+      "logo.png"
+    ],
+    "icon": "logo.png",
+    "source_url": "",
+    "author": [
+      {
+        "name": "mizuki",
+        "author_url": "https://github.com/zyhsck"
+      }
+    ]
+  },
+  "downloads": {
+    "o65": {
+      "version": "1.0.0",
+      "file_name": "com.zyh.playball.debug.1.0.0.rpk"
+    },
+    "o65m": {
+      "version": "1.0.0",
+      "file_name": "com.zyh.playball.debug.1.0.0.rpk"
+    }
+  }
+}
