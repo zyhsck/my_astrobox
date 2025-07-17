@@ -1,9 +1,9 @@
 {
   "item": {
     "name": "playball",
-    "description": "滑动滚动条接住小球，小球在横线上方反弹",
+    "description": "一个滑动线段，接住物理小球的游戏，小球的不规则反弹，考验的玩家的反应（小球会在线段上方一部分实现判断反弹，游玩时需注意）",
     "preview": [
-      "logo.png"
+      "1000039456.png"
     ],
     "icon": "logo.png",
     "source_url": "",
